@@ -6,7 +6,7 @@ class App extends Component {
   constructor(props) {
     super(props)
 
-    this.cityList = [{ name: 'Goa', country: 'India' },
+    this.cityList  = [{ name: 'Goa', country: 'India' },
     { name: 'Amsterdam', country: 'Netherlands' },
     { name: 'New York', country: 'USA' },
     { name: 'Darjeeling', country: 'India' },
