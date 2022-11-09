@@ -7,10 +7,10 @@ class App extends Component {
     super(props)
 
     this.cityList  = [{ name: 'Goa', country: 'India' },
-    { name: 'Amsterdam', country: 'Netherlands' },
-    { name: 'New York', country: 'USA' },
+   // { name: 'Amsterdam', country: 'Netherlands' },
+    //{ name: 'New York', country: 'USA' },
     { name: 'Darjeeling', country: 'India' },
-    { name: 'Tokyo', country: 'Japan' },
+    //{ name: 'Tokyo', country: 'Japan' },
     { name: 'Lonavala', country: 'India' },
     // { name: 'Brandenburg Gate', country: 'Germany' },
     // { name: 'Reichstag Building', country: 'Germany' },
